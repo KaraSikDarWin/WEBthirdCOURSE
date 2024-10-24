@@ -1,0 +1,44 @@
+div{
+	margin-top:30px;
+	
+}
+
+div div{
+	display: inline-block;
+	height: 30px;
+	width: 7%;
+	text-align: center;
+	color:white;
+	line-height: 30px;
+	font-weight: bold;
+}
+.vert-up{
+	vertical-align: -18px;
+}
+
+.red{
+	background: red;
+}
+
+.orange{
+	background: orange;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.green{
+	background: green;
+}
+
+.blue{
+	background: blue;
+}
+
+.grey{
+	background: grey;
+}
+.black-color{
+	color:black;
+}
